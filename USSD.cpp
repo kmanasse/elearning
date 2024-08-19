@@ -20,7 +20,7 @@ void view_menu(){
 	cout<<"1: double beef burger with fries: 6500 FRW"<<endl;
 	cout<<"2: chicken wrap with fries aside: 5500 FRW"<<endl;
 	cout<<"3: shawarma with chicken in it : 5500 FRW"<<endl;
-	cout<<"4: croque monsieur with french fries"<<endl;
+	cout<<"4: croque monsieur "<<endl;
 	
 	
 }
